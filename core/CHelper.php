@@ -128,7 +128,7 @@ class CHelper
     }
 
     /**
-     * Получение адреса сайта "https://mamadeti.ru"
+     * Получение адреса сайта "https://site.com"
      * @return string
      */
     public static function getSiteAddress ()
